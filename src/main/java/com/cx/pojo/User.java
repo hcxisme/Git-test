@@ -7,5 +7,6 @@ public class User {
     private String email;
     private String address;
     private String hotfix3;
+    private String hotfix2;
 
 }
