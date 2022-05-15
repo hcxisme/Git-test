@@ -8,5 +8,6 @@ public class User {
     private String address;
     private String hotfix3;
     private String hotfix2;
+    private String pushTest;
 
 }
